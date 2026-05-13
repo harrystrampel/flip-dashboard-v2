@@ -609,8 +609,11 @@ function ProductDetail({ item, onBack, data, updateQty, viewedVariant, setViewed
 
   return (
     <div style={{ paddingBottom: '20px' }}>
-      <div style={{ background: '#FBF8F1', padding: '14px 20px', paddingTop: 'max(14px, env(safe-area-inset-top, 0px))', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 'env(safe-area-inset-top, 0px)', zIndex: 110 }}>
-        <button type="button" onClick={onBack} style={{ background: 'transparent', border: 'none', color: '#1F1815', fontSize: '14px', fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', padding: '8px 4px', minHeight: '44px', WebkitTapHighlightColor: 'transparent' }}>← Terug</button>
+      <div style={{ background: '#FBF8F1', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 0, zIndex: 110 }}>
+        <div style={{ height: 'env(safe-area-inset-top, 0px)', flexShrink: 0 }} aria-hidden />
+        <div style={{ padding: '6px 20px 12px' }}>
+          <button type="button" onClick={onBack} style={{ background: 'transparent', border: 'none', color: '#1F1815', fontSize: '14px', fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', padding: '8px 4px', marginTop: '6px', minHeight: '44px', WebkitTapHighlightColor: 'transparent' }}>← Terug</button>
+        </div>
       </div>
       <div style={{ width: '100%', height: '240px', background: '#F4EFE4', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden' }}>
         {customImage ? (
