@@ -1,7 +1,7 @@
 {
-  "name": "Flip Dashboard",
-  "short_name": "Flip",
-  "description": "Pokemon & LEGO flip portfolio tracker",
+  "name": "Collectible Portfolio",
+  "short_name": "Collectibles",
+  "description": "Portfolio tracker for Pokémon, LEGO, sports cards, and other collectibles",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FBF8F1",

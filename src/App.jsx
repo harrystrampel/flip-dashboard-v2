@@ -1215,7 +1215,7 @@ function AccountTab({ data, setData }) {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `flip-dashboard-backup-${dateStr}.json`;
+    a.download = `collectible-portfolio-backup-${dateStr}.json`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -1386,9 +1386,9 @@ function AccountTab({ data, setData }) {
         <div style={{ background: '#FFFFFF', border: '1px solid #E8E2D5', borderRadius: '8px', padding: '14px' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '10px' }}>
             <Info size={14} color="#6B6358" />
-            <div className="serif" style={{ fontSize: '14px', fontWeight: 600 }}>Flip Dashboard v2.3</div>
+            <div className="serif" style={{ fontSize: '14px', fontWeight: 600 }}>Collectible Portfolio v2.3</div>
           </div>
-          <div style={{ fontSize: '12px', color: '#6B6358', lineHeight: 1.5 }}>Persoonlijke flip portfolio tracker voor Pokemon, LEGO, sportskaarten en andere collectibles. Data lokaal opgeslagen.</div>
+          <div style={{ fontSize: '12px', color: '#6B6358', lineHeight: 1.5 }}>Persoonlijke portfolio tracker voor Pokemon, LEGO, sportskaarten en andere collectibles. Data lokaal opgeslagen.</div>
           <div style={{ marginTop: '12px', paddingTop: '10px', borderTop: '1px solid #E8E2D5' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '8px' }}>
               <span style={{ width: '6px', height: '6px', borderRadius: '50%', background: '#3F5530', flexShrink: 0 }} />
@@ -1431,7 +1431,7 @@ export default function App() {
   if (!loaded) {
     return (
       <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#FBF8F1', color: '#1F1815', fontFamily: 'serif', flexDirection: 'column', gap: '10px' }}>
-        <div style={{ fontSize: '22px', fontWeight: 400 }}>Flip Dashboard</div>
+        <div style={{ fontSize: '22px', fontWeight: 400 }}>Collectible Portfolio</div>
         <div style={{ fontSize: '12px', color: '#8B8378', letterSpacing: '0.12em' }}>DATA LADEN…</div>
       </div>
     );
