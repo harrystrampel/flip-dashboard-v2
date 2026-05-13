@@ -1,6 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#1F1815"/>
-  <text x="256" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="220" font-weight="500" fill="#C8941A" letter-spacing="-8">F</text>
-  <rect x="180" y="340" width="152" height="6" fill="#C8941A"/>
-  <text x="256" y="400" text-anchor="middle" font-family="monospace" font-size="42" font-weight="700" fill="#FBF8F1" letter-spacing="6">FLIP</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2A201A"/>
+      <stop offset="100%" stop-color="#1F1815"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C8941A"/>
+      <stop offset="100%" stop-color="#A87E1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="72" y="72" width="368" height="368" rx="88" fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.5"/>
+  <!-- Letter F (reads at small sizes) -->
+  <rect x="198" y="132" width="52" height="248" rx="10" fill="#FBF8F1"/>
+  <rect x="198" y="132" width="168" height="52" rx="10" fill="#FBF8F1"/>
+  <rect x="198" y="256" width="124" height="46" rx="10" fill="#FBF8F1"/>
+  <!-- Gold accent strip -->
+  <rect x="176" y="318" width="160" height="8" rx="4" fill="url(#gold)"/>
+  <!-- Subtle uptick (flip / growth) -->
+  <path fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M148 388l44-48 34 26 62-82" opacity="0.88"/>
 </svg>
