@@ -1,22 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2A201A"/>
-      <stop offset="100%" stop-color="#1F1815"/>
+      <stop offset="0%" stop-color="#4A3F6B"/>
+      <stop offset="55%" stop-color="#1F1815"/>
+      <stop offset="100%" stop-color="#1A3D5C"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C8941A"/>
-      <stop offset="100%" stop-color="#A87E1A"/>
+    <linearGradient id="orb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8EC5FC"/>
+      <stop offset="50%" stop-color="#E0A3C4"/>
+      <stop offset="100%" stop-color="#C8941A"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFCF7"/>
+      <stop offset="100%" stop-color="#E8E0D4"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" rx="112" fill="url(#bg)"/>
-  <rect x="72" y="72" width="368" height="368" rx="88" fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.5"/>
-  <!-- Letter F (reads at small sizes) -->
-  <rect x="198" y="132" width="52" height="248" rx="10" fill="#FBF8F1"/>
-  <rect x="198" y="132" width="168" height="52" rx="10" fill="#FBF8F1"/>
-  <rect x="198" y="256" width="124" height="46" rx="10" fill="#FBF8F1"/>
-  <!-- Gold accent strip -->
-  <rect x="176" y="318" width="160" height="8" rx="4" fill="url(#gold)"/>
-  <!-- Subtle uptick (flip / growth) -->
-  <path fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M148 388l44-48 34 26 62-82" opacity="0.88"/>
+  <!-- Playful sparkles -->
+  <circle cx="102" cy="118" r="10" fill="#FFD54F" opacity="0.95"/>
+  <circle cx="410" cy="130" r="8" fill="#A87E1A" opacity="0.9"/>
+  <circle cx="118" cy="390" r="7" fill="#7EB8DA" opacity="0.85"/>
+  <!-- Back portfolio sheet -->
+  <rect x="86" y="248" width="340" height="208" rx="32" fill="#FFFFFF" opacity="0.88" stroke="#D4CCB8" stroke-width="5"/>
+  <!-- Front portfolio sheet -->
+  <rect x="108" y="128" width="296" height="216" rx="30" fill="url(#card)" stroke="#A87E1A" stroke-width="6"/>
+  <!-- “Collectible” orb — soft sphere / booster vibe (abstract, not official art) -->
+  <circle cx="256" cy="228" r="64" fill="url(#orb)"/>
+  <ellipse cx="248" cy="200" rx="36" ry="24" fill="#FFFFFF" opacity="0.45"/>
+  <!-- LEGO-style brick (generic toy brick) -->
+  <g transform="translate(298 312)">
+    <rect x="0" y="28" width="118" height="76" rx="16" fill="#D62718"/>
+    <rect x="0" y="28" width="118" height="22" rx="10" fill="#B51F12" opacity="0.85"/>
+    <circle cx="30" cy="22" r="15" fill="#FFC92E"/>
+    <circle cx="59" cy="18" r="16" fill="#FFD54F"/>
+    <circle cx="88" cy="22" r="15" fill="#FFC92E"/>
+  </g>
+  <!-- Portfolio tab / label strip -->
+  <rect x="148" y="156" width="216" height="20" rx="10" fill="#3F5530"/>
+  <rect x="156" y="160" width="72" height="12" rx="6" fill="#6B8A4F" opacity="0.85"/>
 </svg>
