@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1F1815"/>
+  <text x="256" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="220" font-weight="500" fill="#C8941A" letter-spacing="-8">F</text>
+  <rect x="180" y="340" width="152" height="6" fill="#C8941A"/>
+  <text x="256" y="400" text-anchor="middle" font-family="monospace" font-size="42" font-weight="700" fill="#FBF8F1" letter-spacing="6">FLIP</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "name": "Flip Dashboard",
+  "short_name": "Flip",
+  "description": "Pokemon & LEGO flip portfolio tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF8F1",
+  "theme_color": "#1F1815",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

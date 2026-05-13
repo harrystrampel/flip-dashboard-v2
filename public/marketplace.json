@@ -1,0 +1,2447 @@
+{
+  "lastUpdate": "2026-05-13",
+  "items": [
+    {
+      "id": "pkm-phantasmal-flames",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Mega Evolution — Phantasmal Flames",
+      "date": "2025-11-14",
+      "dateLabel": "uitgebracht nov 2025",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "6–24 maanden",
+      "theme": {
+        "primary": "#1A1A2E",
+        "secondary": "#3A2F5C",
+        "accent": "#FF6B35",
+        "label": "PHANTASMAL FLAMES",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Box": {
+          "sublabel": "36 packs · 10 kaarten p/p",
+          "retail": 240,
+          "expected": 340,
+          "gain": 42,
+          "type": "pkm-bb"
+        },
+        "Elite Trainer Box": {
+          "sublabel": "9 packs + Mega Charizard X promo",
+          "retail": 88,
+          "expected": 130,
+          "gain": 48,
+          "type": "pkm-etb"
+        }
+      },
+      "reasoning": [
+        "Mega Charizard X ex hoofd-chase + Mega Gengar ex",
+        "Tweede Mega Evolution set, kleinste reguliere ENG set in 8 jaar (~120 kaarten)",
+        "Uitverkocht bij Cees Cards (€239,99), Pokenatics (€280), BraadsCardShop (€199,95)",
+        "PokeVoorraad secondair vanaf €349,75 = +75% boven retail",
+        "Charizard + kleine print run = sterke long-term performer"
+      ],
+      "action": "Sealed BB nu kopen bij EU shop met voorraad; uitverkocht bij NL — DE/BE proberen",
+      "retailers": [
+        "BraadsCardShop NL",
+        "TCG Company NL",
+        "Cees Cards NL",
+        "Kaboom-Schoolyard.de",
+        "Magicbazar.de"
+      ],
+      "confidence": "verified",
+      "source": "https://braadscardshop.nl/product/phantasmal-flames-boosterbox/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "BraadsCardShop NL (€199,95 voorraad)"
+    },
+    {
+      "id": "pkm-chaos-rising",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Mega Evolution — Chaos Rising",
+      "date": "2026-05-22",
+      "dateLabel": "22 mei 2026",
+      "dateType": "release",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "1–3 weken",
+      "theme": {
+        "primary": "#1B6E7A",
+        "secondary": "#3FA3B5",
+        "accent": "#7EE3DE",
+        "label": "CHAOS RISING",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Box": {
+          "sublabel": "36 packs · 10 kaarten p/p",
+          "retail": 245,
+          "expected": 305,
+          "gain": 24,
+          "type": "pkm-bb"
+        },
+        "Elite Trainer Box": {
+          "sublabel": "9 packs + Fennekin promo",
+          "retail": 70,
+          "expected": 88,
+          "gain": 26,
+          "type": "pkm-etb"
+        }
+      },
+      "reasoning": [
+        "Mega Greninja ex is de hoofd-chase — Greninja al jaren top-5 populairste",
+        "Mega Floette ex, Mega Pyroar ex, Mega Dragalge ex secundaire chases",
+        "Yellow Lightning Cards NL pre-order: €244,95, uitverkocht",
+        "Sets in deze era stegen typisch 15–25% in eerste 2 weken"
+      ],
+      "action": "Release op 22 mei. Sealed bij Bol/Kaboom/Cardgate; pre-orders meestal gesloten",
+      "retailers": [
+        "Cardgate.eu",
+        "CatchYourCards",
+        "Kaboom-Schoolyard.de",
+        "Bol.com"
+      ],
+      "confidence": "verified",
+      "source": "https://yellowlightningcards.nl/product/chaos-rising-booster-box/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "Yellow Lightning Cards NL"
+    },
+    {
+      "id": "pkm-pitch-black",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Mega Evolution — Pitch Black",
+      "date": "2026-07-17",
+      "dateLabel": "17 juli 2026",
+      "dateType": "release",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "1–4 weken",
+      "theme": {
+        "primary": "#1A0B2E",
+        "secondary": "#3D1F5C",
+        "accent": "#8B5FBF",
+        "label": "PITCH BLACK",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Box": {
+          "sublabel": "36 packs · 10 kaarten p/p",
+          "retail": 240,
+          "expected": 340,
+          "gain": 42,
+          "type": "pkm-bb"
+        },
+        "Elite Trainer Box": {
+          "sublabel": "9 packs + Zarude IR promo",
+          "retail": 80,
+          "expected": 130,
+          "gain": 63,
+          "type": "pkm-etb"
+        }
+      },
+      "reasoning": [
+        "Mega Darkrai ex — een van de meest populaire legendary Pokemon ooit",
+        "Mega Zeraora ex, Mega Chandelure ex, Mega Excadrill ex als secundaire chases",
+        "5e Mega Evolution set (ME05), gebaseerd op Japanse Abyss Eye",
+        "TCG Company NL: ALLES uitverkocht in pre-order (BB, ETB, Bundle, blisters) = STERK vraag signaal",
+        "Pre-release events 4–12 juli zorgen voor extra hype",
+        "Set is kleiner (~115 cards) door Japans subset-beleid",
+        "US MSRP: $161.64 / 36-pack BB",
+        "ETB promo is Zarude Illustration Rare"
+      ],
+      "action": "Pre-order vroeg in DE/BE shops (NL alles uitverkocht). Multi-shop spreiding.",
+      "retailers": [
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de",
+        "TBHstore.nl",
+        "TCG Company NL (uitverkocht)",
+        "Diddodeals"
+      ],
+      "confidence": "estimate",
+      "source": "https://tcgcompany.nl/pitch-black/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "TCG Company NL (uitverkocht — geen prijs)"
+    },
+    {
+      "id": "pkm-storm-emerald",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Storm Emeralda (ENG: TBA)",
+      "date": "2026-09-15",
+      "dateLabel": "JP: 31 juli · ENG: ~sept",
+      "dateType": "release",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "1–2 wkn kort, sealed lang",
+      "theme": {
+        "primary": "#0D4A2C",
+        "secondary": "#1F7A4F",
+        "accent": "#5EE090",
+        "label": "STORM EMERALDA",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Box (JP)": {
+          "sublabel": "JP pack structure TBC bij release",
+          "retail": 95,
+          "expected": 175,
+          "gain": 84,
+          "type": "pkm-bb"
+        },
+        "Booster Box (ENG)": {
+          "sublabel": "36 packs, datum onbevestigd",
+          "retail": 260,
+          "expected": 380,
+          "gain": 46,
+          "type": "pkm-bb"
+        }
+      },
+      "reasoning": [
+        "Mega Rayquaza ex — meest iconische dragon Pokemon ooit",
+        "Japan: bevestigd 31 juli 2026 als M6",
+        "Engelse versie: onbevestigd, verwacht ~september als ME6",
+        "Evolving Skies (vorige Rayquaza-set) ging €120 → €850+ sealed",
+        "Vroeg JP kopen = arbitrage + lange termijn"
+      ],
+      "action": "JP Booster Box pre-order zodra beschikbaar. Wacht op ENG aankondiging.",
+      "retailers": [
+        "ZenMarket.jp",
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de"
+      ],
+      "confidence": "speculative"
+    },
+    {
+      "id": "pkm-30th-celebration",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "30th Celebration Set",
+      "date": "2026-09-18",
+      "dateLabel": "18 september 2026",
+      "dateType": "release",
+      "priority": 5,
+      "risk": "Medium",
+      "horizon": "1–2 wkn kort, jaren lang",
+      "theme": {
+        "primary": "#8B6914",
+        "secondary": "#A87E1A",
+        "accent": "#F4D03F",
+        "label": "30TH ANNIVERSARY",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Box": {
+          "sublabel": "all-foil 6-card packs",
+          "retail": 300,
+          "expected": 480,
+          "gain": 60,
+          "type": "pkm-bb"
+        },
+        "Elite Trainer Box": {
+          "sublabel": "special anniversary edition",
+          "retail": 90,
+          "expected": 165,
+          "gain": 83,
+          "type": "pkm-etb"
+        }
+      },
+      "reasoning": [
+        "30-jarig jubileum Pokemon TCG (1996–2026) — eens-in-30-jaar moment",
+        "Eerste wereldwijde simultane TCG launch ooit",
+        "All-foil set: alle 6 kaarten per pack zijn foil",
+        "Premium Deck Set Espeon & Umbreon zelfde dag"
+      ],
+      "action": "MAXIMALE inzet. 10–20× pre-order via meerdere EU-shops.",
+      "retailers": [
+        "Alle EU shops",
+        "LEGO.com NL",
+        "Bol.com"
+      ]
+    },
+    {
+      "id": "pkm-evolving-skies",
+      "category": "Pokemon",
+      "subcategory": "Sealed Vintage",
+      "name": "Evolving Skies Booster Box",
+      "date": "2021-08-27",
+      "dateLabel": "uitgebracht aug 2021",
+      "dateType": "available",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#2C5F7F",
+        "secondary": "#5A9FBF",
+        "accent": "#A8DBEF",
+        "label": "EVOLVING SKIES",
+        "type": "pkm-bb"
+      },
+      "retail": 850,
+      "expected": 1300,
+      "gain": 53,
+      "reasoning": [
+        "Out of print sinds 2022 — supply schaarste neemt toe",
+        "Bevat Moonbreon (Umbreon VMAX Alt Art) — meest gehypte moderne kaart",
+        "Sealed prijs steeg van €120 (2021) naar €850+ (2026)",
+        "Trajectorie: nog steeds +10–20% per jaar"
+      ],
+      "action": "Koop bij gevestigde sealed-shops met provenance. Pas op fakes.",
+      "retailers": [
+        "Cardgate.eu",
+        "TCG Company",
+        "eBay verified sellers"
+      ]
+    },
+    {
+      "id": "pkm-brilliant-stars",
+      "category": "Pokemon",
+      "subcategory": "Sealed Vintage",
+      "name": "Brilliant Stars Booster Box",
+      "date": "2022-02-25",
+      "dateLabel": "uitgebracht feb 2022",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#7D3F8C",
+        "secondary": "#A85FB8",
+        "accent": "#E5B5F0",
+        "label": "BRILLIANT STARS",
+        "type": "pkm-bb"
+      },
+      "retail": 320,
+      "expected": 480,
+      "gain": 50,
+      "reasoning": [
+        "Out of print — supply daalt",
+        "Bevat Charizard VSTAR alt art — top chase kaart",
+        "Sealed van €100 (release) naar €320 (2026)",
+        "Stevige fanbase, voorspelbaar stijgend"
+      ],
+      "action": "Koop bij sealed-specialists. Bewaar in beschermhoes.",
+      "retailers": [
+        "Cardgate.eu",
+        "eBay verified"
+      ]
+    },
+    {
+      "id": "pkm-jp-151",
+      "category": "Pokemon",
+      "subcategory": "Japanese Sealed",
+      "name": "Pokemon 151 Japanese Booster Box",
+      "date": "2023-06-16",
+      "dateLabel": "uitgebracht 2023",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#C42525",
+        "secondary": "#E55555",
+        "accent": "#FFD700",
+        "label": "POKEMON 151",
+        "type": "pkm-bb"
+      },
+      "retail": 145,
+      "expected": 280,
+      "gain": 93,
+      "reasoning": [
+        "Master Ball patterns — bestaan niet in Engelse versie",
+        "Eerste 151 originele Pokemon nostalgie-set sinds Base Set",
+        "Japanse boxes: betere print, hogere PSA 10 rate",
+        "Master Ball Charizard ex is multi-€1000 chase kaart"
+      ],
+      "action": "Importeer via ZenMarket/FromJapan, of EU-shops met JP-aanbod",
+      "retailers": [
+        "ZenMarket.jp",
+        "Cardgate.eu (JP sectie)"
+      ]
+    },
+    {
+      "id": "pkm-single-moonbreon",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Umbreon VMAX Alt Art (Moonbreon)",
+      "date": "2021-08-27",
+      "dateLabel": "Evolving Skies",
+      "dateType": "available",
+      "priority": 5,
+      "risk": "Medium",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#1A1A2E",
+        "secondary": "#3A3A5E",
+        "accent": "#F0C419",
+        "label": "MOONBREON",
+        "type": "pkm-single"
+      },
+      "retail": 580,
+      "expected": 850,
+      "gain": 47,
+      "reasoning": [
+        "Meest iconische moderne Pokemon kaart",
+        "Umbreon is #1 chase Eeveelution",
+        "Steeg van $50 (release) naar €580 (2026)",
+        "PSA 10 versies: €1800+"
+      ],
+      "action": "Koop raw NM (Near Mint) of PSA 9/10. Alleen bij verified sellers.",
+      "retailers": [
+        "eBay PSA verified",
+        "Cardgate.eu",
+        "TCGPlayer.com"
+      ]
+    },
+    {
+      "id": "pkm-single-charizard-upc",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Charizard UPC (151)",
+      "date": "2023-06-16",
+      "dateLabel": "Pokemon 151",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#D9620F",
+        "secondary": "#E68530",
+        "accent": "#FFC857",
+        "label": "CHARIZARD UPC",
+        "type": "pkm-single"
+      },
+      "retail": 95,
+      "expected": 145,
+      "gain": 53,
+      "reasoning": [
+        "Charizard is altijd #1 Pokemon chase",
+        "Ultra Premium Collection promo — beperkte oplage",
+        "Out of print, gradeable",
+        "PSA 10: €280+"
+      ],
+      "action": "Koop NM bij verified seller; overweeg PSA grading bij mint conditie",
+      "retailers": [
+        "eBay verified",
+        "Cardgate.eu"
+      ]
+    },
+    {
+      "id": "pkm-base-set-charizard",
+      "category": "Pokemon",
+      "subcategory": "Vintage Single",
+      "name": "Base Set Charizard (Unlimited)",
+      "date": "1999-01-09",
+      "dateLabel": "Base Set 1999",
+      "dateType": "available",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#8B1A1A",
+        "secondary": "#B33B3B",
+        "accent": "#F4A442",
+        "label": "BASE SET 1999",
+        "type": "pkm-vintage"
+      },
+      "retail": 450,
+      "expected": 700,
+      "gain": 56,
+      "reasoning": [
+        "Heilige graal van moderne TCG verzamelen",
+        "PSA 10 versie: €15.000+",
+        "Lange termijn: 15-25% per jaar",
+        "Bewezen 25 jaar prijscurve omhoog"
+      ],
+      "action": "Alleen kopen bij PSA verified of major auction. Veel fakes in markt.",
+      "retailers": [
+        "Heritage Auctions",
+        "PWCC",
+        "eBay PSA verified only"
+      ]
+    },
+    {
+      "id": "lego-gringotts",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "76417 Gringotts Wizarding Bank",
+      "sublabel": "4.804 stukken · Collectors Edition",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "6–12 maanden",
+      "theme": {
+        "primary": "#5C1A1A",
+        "secondary": "#8B3A3A",
+        "accent": "#D4A85F",
+        "label": "HARRY POTTER",
+        "type": "lego"
+      },
+      "retail": 430,
+      "expected": 710,
+      "gain": 65,
+      "reasoning": [
+        "4.804 stukken Collectors' Edition met 13 minifigs",
+        "Adviesprijs LEGO Shop NL: €429,99",
+        "Was eerder in aanbieding voor €343,99 — koop bij sale",
+        "Bevestigd retirement juli 2026",
+        "HP Collectors' Edition track record sterk (+60-80% post-retirement)"
+      ],
+      "action": "Koop bij LEGO.com NL korting onder €380. Sealed bewaren.",
+      "retailers": [
+        "LEGO.com NL",
+        "Bol.com",
+        "Amazon NL"
+      ],
+      "confidence": "verified",
+      "source": "https://www.lego.com/nl-nl/product/gringotts-wizarding-bank-collectors-edition-76417",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "LEGO Shop NL"
+    },
+    {
+      "id": "lego-dnd",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "21348 D&D: Red Dragon's Tale",
+      "sublabel": "LEGO Ideas",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#6B1A1A",
+        "secondary": "#A03030",
+        "accent": "#E8B547",
+        "label": "DUNGEONS & DRAGONS",
+        "type": "lego"
+      },
+      "retail": 360,
+      "expected": 540,
+      "gain": 50,
+      "reasoning": [
+        "Enige Dungeons & Dragons LEGO set ooit",
+        "LEGO Ideas: kleinere productieruns",
+        "Ideas-sets historisch sterk",
+        "D&D fanbase groeit"
+      ],
+      "action": "Koop 1–2× met retail-korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL/DE",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "lego-minas-tirith",
+      "category": "LEGO",
+      "subcategory": "Release + GWP",
+      "name": "11377 Minas Tirith + Grond GWP",
+      "sublabel": "LOTR Icons",
+      "date": "2026-06-01",
+      "dateLabel": "1 juni 2026",
+      "dateType": "release",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#3A3A3A",
+        "secondary": "#6B6B6B",
+        "accent": "#D4D4D4",
+        "label": "LORD OF THE RINGS",
+        "type": "lego"
+      },
+      "retail": 549,
+      "expected": 609,
+      "gain": 11,
+      "reasoning": [
+        "Grond GWP gratis bij aankoop",
+        "Verkoop GWP los voor pure marge",
+        "Historische GWP's: Vintage Taxi nu €30–35",
+        "GWP-allocatie beperkt"
+      ],
+      "action": "Pre-order direct bij LEGO.com NL op 1 juni 09:00.",
+      "retailers": [
+        "LEGO.com NL (vereist voor GWP)"
+      ]
+    },
+    {
+      "id": "lego-sega",
+      "category": "LEGO",
+      "subcategory": "Release",
+      "name": "40926 SEGA Genesis Console",
+      "sublabel": "LEGO.com exclusief",
+      "date": "2026-06-01",
+      "dateLabel": "1 juni 2026",
+      "dateType": "release",
+      "priority": 2,
+      "risk": "Medium",
+      "horizon": "6–12 maanden",
+      "theme": {
+        "primary": "#1A1A1A",
+        "secondary": "#3A3A3A",
+        "accent": "#E63946",
+        "label": "SEGA GENESIS",
+        "type": "lego"
+      },
+      "retail": 40,
+      "expected": 75,
+      "gain": 88,
+      "reasoning": [
+        "LEGO.com exclusief — beperkte distributie",
+        "Nostalgische gaming-collab",
+        "Sega-licentie zeldzaam",
+        "Klein formaat = lage opslag"
+      ],
+      "action": "Koop 3–5× bij LEGO.com NL op release day",
+      "retailers": [
+        "LEGO.com NL (exclusief)"
+      ]
+    },
+    {
+      "id": "lego-eiffel",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10307 Eiffel Tower",
+      "sublabel": "10.001 stukken",
+      "date": "2026-12-31",
+      "dateLabel": "dec 2026 (verlengd)",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "1–3 jaar",
+      "theme": {
+        "primary": "#7D6E5C",
+        "secondary": "#B5A289",
+        "accent": "#E8D8B8",
+        "label": "EIFFEL TOWER",
+        "type": "lego"
+      },
+      "retail": 630,
+      "expected": 810,
+      "gain": 29,
+      "reasoning": [
+        "LEGO RRP €629,99 — bevestigd LEGO.com BE",
+        "10.001 stukken — grootste LEGO set ooit",
+        "Retirement verlengd van juli 2026 naar december 2026 (5 mnd extra)",
+        "BrickRanker schat 2 jaar post-retirement: +28.7% (range 25-32%)",
+        "Vergelijking Colosseum (10276, 9k stukken): +40% in jaar 1",
+        "NL prijs historie: laag €629,99 (nov 2024), hoog €751,25 (jun 2025)",
+        "Op dit moment LAAGSTE prijs gemeten = gunstig instapmoment"
+      ],
+      "action": "Koop nu bij LEGO.com NL of korting (-10%) elders. Sterke 1-3 jaar hold.",
+      "retailers": [
+        "LEGO.com NL",
+        "Bol.com",
+        "Amazon NL"
+      ],
+      "confidence": "verified",
+      "source": "https://www.brickwatch.net/en-BE/set/10307/Eiffel-tower.html",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "LEGO.com BE (€629,99) + BrickRanker"
+    },
+    {
+      "id": "lego-natural-history",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10326 Natural History Museum",
+      "sublabel": "Modular Building",
+      "date": "2026-12-31",
+      "dateLabel": "eind 2026/2027",
+      "dateType": "retirement",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "3–5 jaar",
+      "theme": {
+        "primary": "#3F5530",
+        "secondary": "#7A8C6A",
+        "accent": "#D4A574",
+        "label": "MODULAR BUILDING",
+        "type": "lego"
+      },
+      "retail": 300,
+      "expected": 480,
+      "gain": 60,
+      "reasoning": [
+        "Modular Series — gouden standaard",
+        "Cafe Corner +1543%, Green Grocer +837%",
+        "Grootste modular ooit (4.014 stukken)",
+        "Gem. Modular ROI: 17% per jaar"
+      ],
+      "action": "Koop 1–2× bij eerste 15%+ korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon DE"
+      ]
+    },
+    {
+      "id": "lego-mfalcon",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "75192 Millennium Falcon UCS",
+      "sublabel": "7.541 stukken",
+      "date": "2026-12-31",
+      "dateLabel": "dec 2026",
+      "dateType": "retirement",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "3–7 jaar",
+      "theme": {
+        "primary": "#2A2A2A",
+        "secondary": "#5A5A5A",
+        "accent": "#A8A8A8",
+        "label": "STAR WARS UCS",
+        "type": "lego"
+      },
+      "retail": 850,
+      "expected": 1150,
+      "gain": 35,
+      "reasoning": [
+        "UCS — historisch best presterende categorie",
+        "Death Star II +815%, Red Five X-wing +340%",
+        "7.541 stukken — grootste ooit",
+        "UCS Y-wing (2018) al +180%"
+      ],
+      "action": "Alleen bij ruim budget en 5+ jaar geduld",
+      "retailers": [
+        "LEGO.com NL",
+        "Amazon NL"
+      ]
+    },
+    {
+      "id": "lego-razor-crest",
+      "category": "LEGO",
+      "subcategory": "Available",
+      "name": "75331 Razor Crest UCS",
+      "sublabel": "6.187 stukken",
+      "date": "2027-12-31",
+      "dateLabel": "retirement TBA",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "2–4 jaar",
+      "theme": {
+        "primary": "#3A4A5C",
+        "secondary": "#5C7088",
+        "accent": "#B5C5D8",
+        "label": "MANDALORIAN UCS",
+        "type": "lego"
+      },
+      "retail": 600,
+      "expected": 850,
+      "gain": 42,
+      "reasoning": [
+        "UCS Star Wars — beste lange-termijn",
+        "Mandalorian show momentum",
+        "Eerste Razor Crest UCS",
+        "Display piece grote fanbase"
+      ],
+      "action": "Koop bij 15%+ korting, leg sealed weg",
+      "retailers": [
+        "Bol.com",
+        "Amazon DE"
+      ]
+    },
+    {
+      "id": "lego-bonsai",
+      "category": "LEGO",
+      "subcategory": "Available",
+      "name": "10281 Bonsai Tree",
+      "sublabel": "Botanicals — display",
+      "date": "2027-06-30",
+      "dateLabel": "retirement 2027",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "2–4 jaar",
+      "theme": {
+        "primary": "#5C7A3F",
+        "secondary": "#9CC177",
+        "accent": "#FFB3D9",
+        "label": "BONSAI TREE",
+        "type": "lego"
+      },
+      "retail": 50,
+      "expected": 95,
+      "gain": 90,
+      "reasoning": [
+        "Botanicals serie — populair voor display",
+        "Lage instap, hoge marge%",
+        "Tijdloos design, geen IP-risico"
+      ],
+      "action": "Koop 3-5× bij korting, lange termijn",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL"
+      ]
+    },
+    {
+      "id": "lego-titanic",
+      "category": "LEGO",
+      "subcategory": "Available",
+      "name": "10294 Titanic",
+      "sublabel": "9.090 stukken",
+      "date": "2027-06-30",
+      "dateLabel": "retirement 2027",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "2–5 jaar",
+      "theme": {
+        "primary": "#4A5F7F",
+        "secondary": "#7088A5",
+        "accent": "#E8D8B8",
+        "label": "TITANIC",
+        "type": "lego"
+      },
+      "retail": 680,
+      "expected": 1050,
+      "gain": 54,
+      "reasoning": [
+        "Iconisch historisch onderwerp",
+        "9.090 stukken — premium set",
+        "Display piece, niet-LEGO publiek",
+        "Historische appeal blijft"
+      ],
+      "action": "Wacht op 15%+ korting",
+      "retailers": [
+        "Bol.com",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "sport-wc26-prizm",
+      "category": "Sports",
+      "subcategory": "Sealed Box",
+      "name": "Panini Prizm FIFA WC 2026 Hobby",
+      "date": "2026-06-05",
+      "dateLabel": "juni 2026",
+      "dateType": "release",
+      "priority": 5,
+      "risk": "Laag",
+      "horizon": "1–8 weken",
+      "theme": {
+        "primary": "#0F4C81",
+        "secondary": "#1976D2",
+        "accent": "#FFD700",
+        "label": "WC 2026 PRIZM",
+        "type": "sport"
+      },
+      "retail": 280,
+      "expected": 380,
+      "gain": 36,
+      "reasoning": [
+        "WK 2026 actief tijdens release (juni-juli)",
+        "Yamal, Bellingham, Musiala chase rookies",
+        "Prizm is sport-kaart hobby standaard",
+        "Silver Prizm rookies van breakouts = winnaars"
+      ],
+      "action": "Pre-order direct bij WK-launch",
+      "retailers": [
+        "Dave & Adam's Europe",
+        "eBay UK"
+      ]
+    },
+    {
+      "id": "sport-topps-chrome-pl",
+      "category": "Sports",
+      "subcategory": "Sealed Box",
+      "name": "Topps Chrome Premier League 2026",
+      "date": "2026-04-15",
+      "dateLabel": "beschikbaar nu",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "6–24 maanden",
+      "theme": {
+        "primary": "#37003C",
+        "secondary": "#5C0066",
+        "accent": "#00FF87",
+        "label": "TOPPS CHROME PL",
+        "type": "sport"
+      },
+      "retail": 220,
+      "expected": 290,
+      "gain": 32,
+      "reasoning": [
+        "Eerste Topps Chrome PL sinds 2015 — \"comeback set\"",
+        "Yamal, Salah, Henry chases",
+        "Comeback-set historisch sterk"
+      ],
+      "action": "Koop bij EU-shop, hou sealed voor 12+ maanden",
+      "retailers": [
+        "Dave & Adam's Europe",
+        "eBay UK"
+      ]
+    },
+    {
+      "id": "sport-single-yamal",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Lamine Yamal Topps Chrome RC",
+      "date": "2024-06-15",
+      "dateLabel": "beschikbaar",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Hoog",
+      "horizon": "1–12 maanden",
+      "theme": {
+        "primary": "#A50044",
+        "secondary": "#D81159",
+        "accent": "#FFD700",
+        "label": "YAMAL RC",
+        "type": "sport"
+      },
+      "retail": 120,
+      "expected": 220,
+      "gain": 83,
+      "reasoning": [
+        "Spanje WK-favoriet, Yamal hoofdster",
+        "Topps Chrome rookies = de standaard",
+        "Tijdens WK piek mogelijke +100-200%",
+        "Risico: blessure of slecht toernooi"
+      ],
+      "action": "Koop NM, verkoop tijdens WK-piek (juni-juli)",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-single-bellingham",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Jude Bellingham Topps Chrome RC",
+      "date": "2020-08-15",
+      "dateLabel": "Dortmund rookie",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "1–12 maanden",
+      "theme": {
+        "primary": "#FFFFFF",
+        "secondary": "#FBE10B",
+        "accent": "#000000",
+        "label": "BELLINGHAM RC",
+        "type": "sport"
+      },
+      "retail": 95,
+      "expected": 165,
+      "gain": 74,
+      "reasoning": [
+        "Engeland WK-favoriet",
+        "Real Madrid hype + WK = piek",
+        "Dortmund rookie cards meest gezocht"
+      ],
+      "action": "Koop nu, verkoop tijdens England WK-matches",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "gaming-zelda-n64",
+      "category": "Vintage Gaming",
+      "subcategory": "Sealed Game",
+      "name": "Zelda Ocarina of Time (N64) Sealed",
+      "date": "1998-11-23",
+      "dateLabel": "uitgebracht 1998",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#1E3A8A",
+        "secondary": "#3B82F6",
+        "accent": "#FFC107",
+        "label": "ZELDA OOT",
+        "type": "gaming"
+      },
+      "retail": 850,
+      "expected": 1400,
+      "gain": 65,
+      "reasoning": [
+        "Beste videogame ooit volgens vele lijsten",
+        "Sealed N64 supply uitgedroogd",
+        "WATA/VGA gegradeerd: €3000+",
+        "Nintendo nostalgie sterk"
+      ],
+      "action": "Alleen WATA/VGA gegradeerd kopen",
+      "retailers": [
+        "Heritage Auctions",
+        "PWCC"
+      ]
+    },
+    {
+      "id": "mtg-lotr-collector",
+      "category": "Magic: The Gathering",
+      "subcategory": "Sealed Box",
+      "name": "MTG LOTR Collector Booster Box",
+      "date": "2023-06-23",
+      "dateLabel": "uitgebracht 2023",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#3D2817",
+        "secondary": "#6B4226",
+        "accent": "#D4A85F",
+        "label": "LOTR COLLECTOR",
+        "type": "mtg"
+      },
+      "retail": 380,
+      "expected": 580,
+      "gain": 53,
+      "reasoning": [
+        "Bevat 1-of-1 One Ring kaart (verkocht voor $2M+)",
+        "Universes Beyond zeer populair",
+        "Sealed Collector Boxes out of print",
+        "Tolkien fanbase blijft betalen"
+      ],
+      "action": "Koop sealed bij verified TCG-shops",
+      "retailers": [
+        "Cardgate.eu",
+        "CardKingdom.com"
+      ]
+    },
+    {
+      "id": "f1-topps-chrome",
+      "category": "Sports",
+      "subcategory": "F1",
+      "name": "Topps Chrome F1 2025 Hobby",
+      "date": "2025-10-15",
+      "dateLabel": "beschikbaar",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#E10600",
+        "secondary": "#FFFFFF",
+        "accent": "#1A1A1A",
+        "label": "F1 CHROME",
+        "type": "sport"
+      },
+      "retail": 320,
+      "expected": 450,
+      "gain": 41,
+      "reasoning": [
+        "F1 markt exploderend in EU",
+        "Verstappen rookies = NL hype",
+        "Drive to Survive blijft groeien",
+        "Beperkte product line"
+      ],
+      "action": "Koop nu, verkoop op race-momentum",
+      "retailers": [
+        "Dave & Adam's Europe",
+        "eBay UK"
+      ]
+    },
+    {
+      "id": "pkm-prismatic-evolutions",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Prismatic Evolutions (geen BB!)",
+      "date": "2025-01-17",
+      "dateLabel": "uitgebracht jan 2025",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#7B3FA8",
+        "secondary": "#B05ECE",
+        "accent": "#F4D03F",
+        "label": "PRISMATIC EVO",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Booster Bundle (6 packs)": {
+          "sublabel": "6 packs · officieel grootste sealed product",
+          "retail": 60,
+          "expected": 95,
+          "gain": 58,
+          "type": "pkm-bb"
+        },
+        "Elite Trainer Box": {
+          "sublabel": "9 packs + Eevee Illustration Rare promo",
+          "retail": 90,
+          "expected": 145,
+          "gain": 61,
+          "type": "pkm-etb"
+        },
+        "Eevee Premium Collection": {
+          "sublabel": "Premium box",
+          "retail": 60,
+          "expected": 90,
+          "gain": 50,
+          "type": "pkm-etb"
+        }
+      },
+      "reasoning": [
+        "BELANGRIJK: Officieel GEEN Booster Box bij retail (tussenset)",
+        "Wel: Booster Bundle, ETB, Premium Collections",
+        "Alle 9 Eeveelutions als Special Illustration Rares",
+        "Umbreon ex SIR raw €1100+, PSA 10 €3500+",
+        "Out of primary retail distribution sinds eind 2025",
+        "Secundaire markt \"BB\" = ofwel Premium Collection ofwel aftermarket pack-display"
+      ],
+      "action": "Koop ETB of Booster Bundle bij Cardgate/Kaboom. Wees skeptisch over \"Prismatic Evolutions Booster Box\" listings — die zijn niet officieel.",
+      "retailers": [
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de",
+        "TCG Company NL",
+        "Cees Cards",
+        "speelkaartenwinkel.nl"
+      ],
+      "confidence": "verified",
+      "source": "https://tcgcompany.nl/prismatic-evolutions-de-eevee-set-voor-2025/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "TCG Company NL (tussenset bevestigd)"
+    },
+    {
+      "id": "pkm-151-eng",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Scarlet & Violet 151 Booster Box (ENG)",
+      "date": "2023-09-22",
+      "dateLabel": "uitgebracht sept 2023",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#C42525",
+        "secondary": "#E55555",
+        "accent": "#FFD700",
+        "label": "151 ENG",
+        "type": "pkm-bb"
+      },
+      "retail": 250,
+      "expected": 340,
+      "gain": 36,
+      "reasoning": [
+        "Eerste 151 origineel Pokemon set sinds Base Set",
+        "BESCARDS NL: €249,99 op voorraad (4.85★ rating, 34 reviews)",
+        "Charizard ex SAR raw €234 PSA 10",
+        "Out of print in primary retail",
+        "Nostalgie + Mega Evolution era cross-appeal",
+        "Master Set vraag drijft sealed verder omhoog"
+      ],
+      "action": "Sealed BB nu kopen bij BESCARDS of EU shops; minimaal 2 jaar bewaren",
+      "retailers": [
+        "BESCARDS NL",
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de",
+        "TCG Company NL"
+      ],
+      "confidence": "verified",
+      "source": "https://www.bescards.com/pokemon-booster-box/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "BESCARDS NL (€249,99)"
+    },
+    {
+      "id": "pkm-surging-sparks",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Surging Sparks Booster Box",
+      "date": "2024-11-08",
+      "dateLabel": "uitgebracht nov 2024",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#FFD700",
+        "secondary": "#FFA500",
+        "accent": "#1F1815",
+        "label": "SURGING SPARKS",
+        "type": "pkm-bb"
+      },
+      "retail": 160,
+      "expected": 220,
+      "gain": 38,
+      "reasoning": [
+        "Pikachu ex Hyper Rare €210-280 raw, €550-700 PSA 10",
+        "Latias/Latios ex SIRs €65-110 raw",
+        "Grote print run beperkt korte termijn pump",
+        "Tightere SIR pull rates dan eerdere sets",
+        "12-month CAGR ~10%"
+      ],
+      "action": "Wacht op out-of-print signaal (verwacht Q3 2026)",
+      "retailers": [
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de"
+      ]
+    },
+    {
+      "id": "pkm-stellar-crown",
+      "category": "Pokemon",
+      "subcategory": "Sealed",
+      "name": "Stellar Crown Booster Box",
+      "date": "2024-09-13",
+      "dateLabel": "uitgebracht sept 2024",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#2D7A8C",
+        "secondary": "#5BA3B5",
+        "accent": "#FFD700",
+        "label": "STELLAR CROWN",
+        "type": "pkm-bb"
+      },
+      "retail": 130,
+      "expected": 175,
+      "gain": 35,
+      "reasoning": [
+        "Terapagos ex SAR is hoofd-chase",
+        "Sealed +50% sinds release",
+        "Lagere instap dan PE of 151",
+        "Crossover met Terastal mechanic blijft relevant"
+      ],
+      "action": "Koop bij korting onder €130",
+      "retailers": [
+        "Cardgate.eu",
+        "Kaboom-Schoolyard.de"
+      ]
+    },
+    {
+      "id": "pkm-base-set-bb",
+      "category": "Pokemon",
+      "subcategory": "Vintage WOTC",
+      "name": "Base Set Booster Box Unlimited",
+      "date": "1999-01-09",
+      "dateLabel": "WOTC 1999",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Hoog",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#5C1A1A",
+        "secondary": "#8B3A3A",
+        "accent": "#F4A442",
+        "label": "BASE SET 1999",
+        "type": "pkm-bb"
+      },
+      "retail": 4500,
+      "expected": 6500,
+      "gain": 44,
+      "reasoning": [
+        "Heilige graal sealed Pokemon",
+        "Authenticated sealed BB: €4500-7000 range",
+        "Lange termijn 15-25% per jaar appreciatie",
+        "Schaarste: <500 authenticated boxes wereldwijd",
+        "PSA-authenticated only — fakes prevalent"
+      ],
+      "action": "ALLEEN kopen via Heritage Auctions / PWCC / Goldin met authentication",
+      "retailers": [
+        "Heritage Auctions",
+        "PWCC Marketplace",
+        "Goldin"
+      ]
+    },
+    {
+      "id": "pkm-neo-genesis-bb",
+      "category": "Pokemon",
+      "subcategory": "Vintage WOTC",
+      "name": "Neo Genesis Booster Box Sealed",
+      "date": "2000-12-16",
+      "dateLabel": "WOTC 2000",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Hoog",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#1A3A6E",
+        "secondary": "#3A6FB5",
+        "accent": "#C9A227",
+        "label": "NEO GENESIS",
+        "type": "pkm-bb"
+      },
+      "retail": 1800,
+      "expected": 2600,
+      "gain": 44,
+      "reasoning": [
+        "Eerste Lugia kaart ooit (Lugia Holo €600+ PSA 10)",
+        "Eerste Pokemon set met dark/light types",
+        "Sealed BB schaarste neemt jaarlijks toe",
+        "Tweede generation nostalgie sterk groeiend"
+      ],
+      "action": "Alleen authenticated kopen; provenance is essentieel",
+      "retailers": [
+        "Heritage Auctions",
+        "PWCC",
+        "Sealed-specialist shops"
+      ]
+    },
+    {
+      "id": "pkm-team-rocket-bb",
+      "category": "Pokemon",
+      "subcategory": "Vintage WOTC",
+      "name": "Team Rocket Booster Box Unlimited",
+      "date": "2000-04-24",
+      "dateLabel": "WOTC 2000",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Hoog",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#3C1A4A",
+        "secondary": "#6B2F7A",
+        "accent": "#E63946",
+        "label": "TEAM ROCKET",
+        "type": "pkm-bb"
+      },
+      "retail": 1400,
+      "expected": 2100,
+      "gain": 50,
+      "reasoning": [
+        "Dark Charizard Holo €400+ PSA 9",
+        "Eerste Dark Pokemon set",
+        "Sealed Unlimited supply dunner dan Base/Jungle",
+        "Iconisch design met Team Rocket logos"
+      ],
+      "action": "Verified sealed kopen via auction houses",
+      "retailers": [
+        "Heritage Auctions",
+        "PWCC",
+        "eBay verified"
+      ]
+    },
+    {
+      "id": "pkm-jp-terastal",
+      "category": "Pokemon",
+      "subcategory": "Japanese Sealed",
+      "name": "Terastal Festival ex JP Booster Box",
+      "date": "2024-09-13",
+      "dateLabel": "JP, sept 2024",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#D9620F",
+        "secondary": "#FFC857",
+        "accent": "#1A1A2E",
+        "label": "TERASTAL FESTIVAL",
+        "type": "pkm-bb"
+      },
+      "retail": 95,
+      "expected": 165,
+      "gain": 74,
+      "reasoning": [
+        "JP exclusief, Japanese-only premium prints",
+        "Latias ex Master Ball secret chase",
+        "Lagere instap dan ENG equivalent (Surging Sparks ETB)",
+        "JP boxes betere print kwaliteit, hogere PSA 10 rate"
+      ],
+      "action": "Importeer via ZenMarket/FromJapan",
+      "retailers": [
+        "ZenMarket.jp",
+        "FromJapan.co.jp",
+        "Cardgate.eu JP"
+      ]
+    },
+    {
+      "id": "pkm-jp-snow-hazard",
+      "category": "Pokemon",
+      "subcategory": "Japanese Sealed",
+      "name": "Snow Hazard JP Booster Box",
+      "date": "2023-04-14",
+      "dateLabel": "JP, april 2023",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#5A9FBF",
+        "secondary": "#A8DBEF",
+        "accent": "#FFC107",
+        "label": "SNOW HAZARD",
+        "type": "pkm-bb"
+      },
+      "retail": 115,
+      "expected": 180,
+      "gain": 57,
+      "reasoning": [
+        "Iono Alt Art is hoofd-chase (€350+ raw)",
+        "Iono cultureel populair onder verzamelaars",
+        "JP-only kaarten worden niet herdrukt in ENG",
+        "Sealed jaarlijks +15-20%"
+      ],
+      "action": "JP import via betrouwbare middleman service",
+      "retailers": [
+        "ZenMarket.jp",
+        "Buyee.jp"
+      ]
+    },
+    {
+      "id": "pkm-jp-black-bolt",
+      "category": "Pokemon",
+      "subcategory": "Japanese Sealed",
+      "name": "Black Bolt JP Booster Box",
+      "date": "2025-06-06",
+      "dateLabel": "JP, juni 2025",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#1A1A1A",
+        "secondary": "#3A3A3A",
+        "accent": "#F4D03F",
+        "label": "BLACK BOLT",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Regular Box (20 packs)": {
+          "sublabel": "20 packs × 7 kaarten · sv11B",
+          "retail": 230,
+          "expected": 320,
+          "gain": 39,
+          "type": "pkm-bb"
+        },
+        "Deluxe Box (4 packs)": {
+          "sublabel": "4 packs × 35 kaarten · 1 AR garantie p/p",
+          "retail": 170,
+          "expected": 260,
+          "gain": 53,
+          "type": "pkm-bb"
+        }
+      },
+      "reasoning": [
+        "Bevat Zekrom BWR (Black White Rare) — nieuwe rariteit",
+        "Unova/Gen 5 nostalgie, paired met White Flare set",
+        "Regular Box €229,95 bij TCG Company NL (uitverkocht — krapte signaal)",
+        "Deluxe Box €169,95, 8 op voorraad bij TCG Company NL",
+        "Print run JP-only, secundair niet herdrukt",
+        "Loose pack: €11,95 (Regular) vs €6,95 (White Flare regular)"
+      ],
+      "action": "Deluxe is goedkopere instap met meer kaarten p/pack. Regular box uitverkocht bij grote NL retailers = krapte.",
+      "retailers": [
+        "TCG Company NL",
+        "Pokeca.NL",
+        "TCG Stars NL",
+        "MonkelTCG",
+        "GameCardsCentral"
+      ],
+      "confidence": "verified",
+      "source": "https://tcgcompany.nl/black-bolt-deluxe-booster-box/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "TCG Company NL"
+    },
+    {
+      "id": "pkm-jp-white-flare",
+      "category": "Pokemon",
+      "subcategory": "Japanese Sealed",
+      "name": "White Flare JP Booster Box",
+      "date": "2025-06-06",
+      "dateLabel": "JP, juni 2025",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#E8E2D5",
+        "secondary": "#FBF8F1",
+        "accent": "#A87E1A",
+        "label": "WHITE FLARE",
+        "type": "pkm-bb"
+      },
+      "variants": {
+        "Regular Box": {
+          "sublabel": "sv11W",
+          "retail": 150,
+          "expected": 220,
+          "gain": 47,
+          "type": "pkm-bb"
+        },
+        "Deluxe Box (4 packs)": {
+          "sublabel": "4 packs × 35 kaarten · 1 AR garantie p/p",
+          "retail": 150,
+          "expected": 230,
+          "gain": 53,
+          "type": "pkm-bb"
+        }
+      },
+      "reasoning": [
+        "Paired set met Black Bolt — beide release 6 juni 2025",
+        "Bevat Reshiram BWR + Keldeo ex",
+        "White Flare lager geprijsd dan Black Bolt (€149,95 vs €229,95) — minder hype rond Reshiram",
+        "Loose pack: €6,95 vs €11,95 voor Black Bolt = arbitrage indicator",
+        "Print run JP-only"
+      ],
+      "action": "Goedkopere instap dan Black Bolt. Pair als matched set voor display value.",
+      "retailers": [
+        "TCG Company NL",
+        "Pokeca.NL",
+        "TCG Stars NL"
+      ],
+      "confidence": "verified",
+      "source": "https://tcgcompany.nl/white-flare-deluxe-booster-box/",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "TCG Company NL"
+    },
+    {
+      "id": "pkm-umbreon-ex-pe",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Umbreon ex SIR (Prismatic Evolutions)",
+      "date": "2025-01-17",
+      "dateLabel": "PE #161",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#1A1A2E",
+        "secondary": "#3A3A5E",
+        "accent": "#F0C419",
+        "label": "UMBREON EX SIR",
+        "type": "pkm-single"
+      },
+      "retail": 1100,
+      "expected": 1500,
+      "gain": 36,
+      "reasoning": [
+        "Meest gegradeerde moderne Pokemon kaart ooit (14k+ PSA submissions)",
+        "Piek €1500, gecorrigeerd naar €1100, stabiliserend",
+        "PSA 10: €3500+",
+        "Umbreon = #1 chase Eeveelution all-time",
+        "Lange termijn altijd sterk vraag"
+      ],
+      "action": "Koop raw NM bij verified seller; overweeg PSA grading",
+      "retailers": [
+        "eBay PSA verified",
+        "TCGPlayer",
+        "Cardgate.eu"
+      ]
+    },
+    {
+      "id": "pkm-sylveon-ex-pe",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Sylveon ex SIR (Prismatic Evolutions)",
+      "date": "2025-01-17",
+      "dateLabel": "PE #156",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#F5A2C7",
+        "secondary": "#FFD1DC",
+        "accent": "#A50044",
+        "label": "SYLVEON EX SIR",
+        "type": "pkm-single"
+      },
+      "retail": 290,
+      "expected": 420,
+      "gain": 45,
+      "reasoning": [
+        "Tweede meest waardevolle PE SIR na Umbreon",
+        "Sylveon fanbase trouw en groeiend",
+        "PSA 10 €800-1100",
+        "200-400% grading multiplier mogelijk",
+        "Wedding/Valentine artwork = display-piece"
+      ],
+      "action": "Koop NM raw, grade bij mint conditie",
+      "retailers": [
+        "eBay verified",
+        "TCGPlayer"
+      ]
+    },
+    {
+      "id": "pkm-pikachu-ex-hr",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Pikachu ex Hyper Rare (Surging Sparks)",
+      "date": "2024-11-08",
+      "dateLabel": "SSP #238",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#FFD700",
+        "secondary": "#FFA500",
+        "accent": "#1F1815",
+        "label": "PIKACHU EX HR",
+        "type": "pkm-single"
+      },
+      "retail": 230,
+      "expected": 340,
+      "gain": 48,
+      "reasoning": [
+        "Gouden Pikachu = #1 chase Surging Sparks",
+        "€210-280 raw, gestabiliseerd na piek",
+        "PSA 10: €550-700",
+        "Pikachu altijd populair, gold textuur fotografeert geweldig",
+        "Display piece voor social media"
+      ],
+      "action": "Koop NM, mogelijk grading bij perfect centering",
+      "retailers": [
+        "eBay verified",
+        "Cardgate.eu",
+        "TCGPlayer"
+      ]
+    },
+    {
+      "id": "pkm-charizard-ex-sar",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Charizard ex SAR (Obsidian Flames)",
+      "date": "2023-08-11",
+      "dateLabel": "OBF #215",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#8B1A1A",
+        "secondary": "#D9620F",
+        "accent": "#FFC857",
+        "label": "CHARIZARD SAR",
+        "type": "pkm-single"
+      },
+      "retail": 95,
+      "expected": 175,
+      "gain": 84,
+      "reasoning": [
+        "Charizard = #1 Pokemon chase all-time",
+        "PSA 10: €234+ met dunne populatie",
+        "Obsidian Flames out of print",
+        "Steady appreciation 12-15% per jaar"
+      ],
+      "action": "Koop NM bij verified seller",
+      "retailers": [
+        "eBay verified",
+        "TCGPlayer",
+        "Cardgate.eu"
+      ]
+    },
+    {
+      "id": "pkm-lugia-v-alt",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Lugia V Alt Art (Silver Tempest)",
+      "date": "2022-11-11",
+      "dateLabel": "SIT #186",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#3A6FB5",
+        "secondary": "#A8DBEF",
+        "accent": "#FFD700",
+        "label": "LUGIA V ALT",
+        "type": "pkm-single"
+      },
+      "retail": 165,
+      "expected": 230,
+      "gain": 39,
+      "reasoning": [
+        "Iconisch Lugia Aquapolis-inspired artwork",
+        "Out of print, supply daalt jaarlijks",
+        "PSA 10 €450+",
+        "Lugia = legendary tier chase"
+      ],
+      "action": "Koop NM raw bij verified",
+      "retailers": [
+        "eBay verified",
+        "TCGPlayer"
+      ]
+    },
+    {
+      "id": "pkm-giratina-v-alt",
+      "category": "Pokemon",
+      "subcategory": "Single Card",
+      "name": "Giratina V Alt Art (Lost Origin)",
+      "date": "2022-09-09",
+      "dateLabel": "LOR #186",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#3C1A4A",
+        "secondary": "#6B2F7A",
+        "accent": "#FFD700",
+        "label": "GIRATINA V ALT",
+        "type": "pkm-single"
+      },
+      "retail": 175,
+      "expected": 250,
+      "gain": 43,
+      "reasoning": [
+        "Ghost-Dragon legendary populair",
+        "Origin Forme = fan favorite",
+        "PSA 10 €480+",
+        "Lost Origin out of print"
+      ],
+      "action": "Koop NM bij verified seller",
+      "retailers": [
+        "eBay verified",
+        "TCGPlayer"
+      ]
+    },
+    {
+      "id": "sport-ucc-chrome",
+      "category": "Sports",
+      "subcategory": "Sealed Box",
+      "name": "Topps Chrome UCC 2025-26 Hobby",
+      "date": "2026-05-07",
+      "dateLabel": "release 7 mei 2026",
+      "dateType": "release",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "1–12 maanden",
+      "theme": {
+        "primary": "#003DA5",
+        "secondary": "#0066CC",
+        "accent": "#FFD700",
+        "label": "UCC CHROME",
+        "type": "sport"
+      },
+      "retail": 250,
+      "expected": 340,
+      "gain": 36,
+      "reasoning": [
+        "Net uitgebracht: 7 mei 2026, $249.99 retail",
+        "200-card set, 1 autograph per hobby box",
+        "Endrick, Jobe Bellingham, Estêvão, Cobbie Tay rookies",
+        "Topps Chrome is gouden standaard voetbalkaarten",
+        "WK 2026 zomer drijft EU/UK vraag enorm"
+      ],
+      "action": "KOOP NU bij EU shops voor retail; piek tijdens WK",
+      "retailers": [
+        "Dave & Adam's Europe",
+        "eBay UK",
+        "Topps NL"
+      ]
+    },
+    {
+      "id": "sport-ucc-flagship",
+      "category": "Sports",
+      "subcategory": "Sealed Box",
+      "name": "Topps Flagship UCC 2025-26 Hobby",
+      "date": "2025-09-25",
+      "dateLabel": "release sept 2025",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#003DA5",
+        "secondary": "#FFFFFF",
+        "accent": "#FFD700",
+        "label": "UCC FLAGSHIP",
+        "type": "sport"
+      },
+      "retail": 145,
+      "expected": 195,
+      "gain": 34,
+      "reasoning": [
+        "Lagere instap dan Chrome variant",
+        "Zelfde 200-card base met Endrick, Bellingham",
+        "Hobby box: 1 autograph/relic per box",
+        "Vroege rookies van breakthrough seizoen 25/26"
+      ],
+      "action": "Goedkoper alternatief voor Chrome; goede WK-positionering",
+      "retailers": [
+        "DA Card World",
+        "eBay UK",
+        "Topps NL"
+      ]
+    },
+    {
+      "id": "sport-panini-prizm-pl",
+      "category": "Sports",
+      "subcategory": "Sealed Box",
+      "name": "Panini Prizm Premier League 25/26",
+      "date": "2026-03-01",
+      "dateLabel": "maart 2026",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#37003C",
+        "secondary": "#5C0066",
+        "accent": "#00FF87",
+        "label": "PRIZM PL",
+        "type": "sport"
+      },
+      "retail": 195,
+      "expected": 265,
+      "gain": 36,
+      "reasoning": [
+        "Panini Prizm is sport-kaart standaard",
+        "Premier League rookies: Mikey Moore, Cobbie Tay",
+        "Silver Prizm parallels = entry-level chase",
+        "Onfomance van Engelse spelers bij WK = boost"
+      ],
+      "action": "Koop nu, hou tot WK juni/juli",
+      "retailers": [
+        "Dave & Adam's Europe",
+        "eBay UK"
+      ]
+    },
+    {
+      "id": "sport-cole-palmer",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Cole Palmer Topps Chrome UCC RC",
+      "date": "2023-08-01",
+      "dateLabel": "Chrome rookie",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "1–12 maanden",
+      "theme": {
+        "primary": "#034694",
+        "secondary": "#1976D2",
+        "accent": "#FFD700",
+        "label": "COLE PALMER RC",
+        "type": "sport"
+      },
+      "retail": 85,
+      "expected": 165,
+      "gain": 94,
+      "reasoning": [
+        "Chelsea ster + Engeland starter",
+        "WK 2026 sleutelspeler",
+        "Chrome refractor RC schaars",
+        "Trending up sinds Q4 2025"
+      ],
+      "action": "Koop NM nu, verkoop tijdens WK Engeland-matches",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-endrick",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Endrick Topps Chrome RC",
+      "date": "2024-07-01",
+      "dateLabel": "Real Madrid RC",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Hoog",
+      "horizon": "6–24 maanden",
+      "theme": {
+        "primary": "#FEBE10",
+        "secondary": "#FFFFFF",
+        "accent": "#00529F",
+        "label": "ENDRICK RC",
+        "type": "sport"
+      },
+      "retail": 55,
+      "expected": 125,
+      "gain": 127,
+      "reasoning": [
+        "Real Madrid + Brazilië hoofdtalent",
+        "19 jaar, langeloop carrière potential",
+        "In UCC 2025-26 set met Future Stars Autograph subset",
+        "Hoog risico/hoge return profiel"
+      ],
+      "action": "Speculatieve play — kies refractor parallels",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-pedri",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Pedri Topps Chrome RC",
+      "date": "2021-08-01",
+      "dateLabel": "Barcelona rookie",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#A50044",
+        "secondary": "#FFD700",
+        "accent": "#004D98",
+        "label": "PEDRI RC",
+        "type": "sport"
+      },
+      "retail": 75,
+      "expected": 145,
+      "gain": 93,
+      "reasoning": [
+        "Spanje WK-co-ster naast Yamal",
+        "Barcelona middenveld toekomst",
+        "Trending sinds 2024 ondanks blessures",
+        "WK piek mogelijk +100%"
+      ],
+      "action": "Koop NM, hou tot WK",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-wirtz",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Florian Wirtz Topps Chrome RC",
+      "date": "2020-08-01",
+      "dateLabel": "Leverkusen rookie",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "6–18 maanden",
+      "theme": {
+        "primary": "#E32219",
+        "secondary": "#000000",
+        "accent": "#FFFFFF",
+        "label": "WIRTZ RC",
+        "type": "sport"
+      },
+      "retail": 70,
+      "expected": 130,
+      "gain": 86,
+      "reasoning": [
+        "Liverpool transfer momentum (gerucht/bevestigd)",
+        "Duitsland WK key player",
+        "Leverkusen rookie = schaars in markt",
+        "Bayer 04 Bundesliga winner als context"
+      ],
+      "action": "Speculatie op transfer + WK; verkoop voor toernooi",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-mainoo",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Kobbie Mainoo Topps Chrome RC",
+      "date": "2023-12-01",
+      "dateLabel": "Man United RC",
+      "dateType": "available",
+      "priority": 2,
+      "risk": "Hoog",
+      "horizon": "6–24 maanden",
+      "theme": {
+        "primary": "#DA291C",
+        "secondary": "#FBE122",
+        "accent": "#000000",
+        "label": "MAINOO RC",
+        "type": "sport"
+      },
+      "retail": 35,
+      "expected": 75,
+      "gain": 114,
+      "reasoning": [
+        "Man United + Engeland jeugd",
+        "UCC 2025-26 base set rookie",
+        "Goedkope instap voor speculatie",
+        "EK 2024 prestaties als baseline"
+      ],
+      "action": "Speculatieve goedkope flip",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sport-estevao",
+      "category": "Sports",
+      "subcategory": "Single Card",
+      "name": "Estêvão Willian Topps Chrome RC",
+      "date": "2024-06-01",
+      "dateLabel": "Palmeiras/Chelsea",
+      "dateType": "available",
+      "priority": 2,
+      "risk": "Hoog",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#00854F",
+        "secondary": "#FFD700",
+        "accent": "#034694",
+        "label": "ESTÊVÃO RC",
+        "type": "sport"
+      },
+      "retail": 60,
+      "expected": 140,
+      "gain": 133,
+      "reasoning": [
+        "Chelsea transfer 2025, gehyped als nieuwe Neymar",
+        "Brazilië WK potential debuut",
+        "In UCC 2025-26 Future Stars Autograph subset (FSA-E)",
+        "Lange termijn carrière speculatie"
+      ],
+      "action": "Hoog risico/hoge return — koop refractor parallels",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "lego-jaws",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "21350 Jaws",
+      "sublabel": "LEGO Ideas · 1.497 stukken",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#1A4A6E",
+        "secondary": "#3A7FA5",
+        "accent": "#E8D8B8",
+        "label": "JAWS",
+        "type": "lego"
+      },
+      "retail": 150,
+      "expected": 240,
+      "gain": 60,
+      "reasoning": [
+        "LEGO RRP €149,99 (release aug 2024)",
+        "Bol.com: €150 (op voorraad)",
+        "Alternate NL: €129,90 (-13% korting, beste deal)",
+        "LEGO Ideas — kleinere productie runs",
+        "Bevestigd retirement juli 2026 (Brick Fanatics)",
+        "Iconisch film-merk crossover, Steven Spielberg promo",
+        "Vergelijkbare Ideas (Sonic, Sesame Street): +60-120% in jaar 1"
+      ],
+      "action": "Koop bij Alternate met korting (-13% = €129,90). Hou tot 12+ mnd na retirement.",
+      "retailers": [
+        "Alternate NL (€129,90)",
+        "Bol.com (€150)",
+        "LEGO.com NL (€149,99)",
+        "BRICKshop NL"
+      ],
+      "confidence": "verified",
+      "source": "https://www.brickwatch.net/nl-NL/set/21350/Jaws.html",
+      "verifiedDate": "2026-05-13",
+      "sourceName": "BrickWatch NL (€129,90 Alternate)"
+    },
+    {
+      "id": "lego-dune-ornithopter",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10327 Dune Atreides Royal Ornithopter",
+      "sublabel": "LEGO Icons · 1.369 stukken",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 2,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#8B6F47",
+        "secondary": "#C9A871",
+        "accent": "#3A3A3A",
+        "label": "DUNE ORNITHOPTER",
+        "type": "lego"
+      },
+      "retail": 165,
+      "expected": 245,
+      "gain": 48,
+      "reasoning": [
+        "Bevestigd retirement juli 2026",
+        "Dune 2 film momentum",
+        "LEGO Icons display set",
+        "Minifig Paul Atreides + Chani"
+      ],
+      "action": "Koop bij 15% korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL"
+      ]
+    },
+    {
+      "id": "lego-pacman",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10323 PAC-MAN Arcade",
+      "sublabel": "LEGO Icons · 2.651 stukken",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#FFE100",
+        "secondary": "#FFC107",
+        "accent": "#000000",
+        "label": "PAC-MAN ARCADE",
+        "type": "lego"
+      },
+      "retail": 280,
+      "expected": 420,
+      "gain": 50,
+      "reasoning": [
+        "Bevestigd retirement juli 2026",
+        "Gaming nostalgie sterk publiek",
+        "Werkende mini-arcade mechanism",
+        "Klasse-display piece met breed appeal"
+      ],
+      "action": "Koop bij Bol/Amazon korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "lego-optimus",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10302 Optimus Prime",
+      "sublabel": "LEGO Icons",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 2,
+      "risk": "Laag",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#1E3A8A",
+        "secondary": "#3B82F6",
+        "accent": "#E63946",
+        "label": "OPTIMUS PRIME",
+        "type": "lego"
+      },
+      "retail": 185,
+      "expected": 290,
+      "gain": 57,
+      "reasoning": [
+        "Eerste LEGO Transformers set, bevestigd retirement",
+        "Transformable: robot ↔ truck",
+        "Sterke 80s/90s nostalgie publiek",
+        "Hasbro licentie schaars in LEGO"
+      ],
+      "action": "Koop bij 15%+ korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL"
+      ]
+    },
+    {
+      "id": "lego-ferrari-daytona",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "42143 Ferrari Daytona SP3",
+      "sublabel": "LEGO Technic · 3.778 stukken",
+      "date": "2026-07-31",
+      "dateLabel": "juli 2026",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#FF2800",
+        "secondary": "#FFFFFF",
+        "accent": "#000000",
+        "label": "FERRARI DAYTONA",
+        "type": "lego"
+      },
+      "retail": 380,
+      "expected": 550,
+      "gain": 45,
+      "reasoning": [
+        "Technic flagship Ferrari",
+        "3.778 stukken premium set",
+        "Ferrari licentie premium positioning",
+        "Technic supercar historisch +40-60% post-retirement"
+      ],
+      "action": "Koop bij 15%+ korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon NL",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "lego-nasa-artemis",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10341 NASA Artemis SLS",
+      "sublabel": "LEGO Icons · 3.601 stukken",
+      "date": "2026-12-31",
+      "dateLabel": "eind 2026",
+      "dateType": "retirement",
+      "priority": 4,
+      "risk": "Medium",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#0B3D91",
+        "secondary": "#FFFFFF",
+        "accent": "#FC3D21",
+        "label": "NASA ARTEMIS",
+        "type": "lego"
+      },
+      "retail": 240,
+      "expected": 360,
+      "gain": 50,
+      "reasoning": [
+        "NASA licentie + space exploration thema",
+        "Artemis missie momentum (terug naar maan)",
+        "LEGO Icons grote display piece",
+        "Vergelijkbaar Saturn V (10231) +200% post-retirement"
+      ],
+      "action": "Koop bij eerste 15% korting",
+      "retailers": [
+        "Bol.com",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "lego-endurance",
+      "category": "LEGO",
+      "subcategory": "Retirement",
+      "name": "10335 The Endurance",
+      "sublabel": "LEGO Icons · 3.011 stukken",
+      "date": "2026-12-31",
+      "dateLabel": "eind 2026",
+      "dateType": "retirement",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#3A3A3A",
+        "secondary": "#6B6B6B",
+        "accent": "#8B6F47",
+        "label": "ENDURANCE",
+        "type": "lego"
+      },
+      "retail": 220,
+      "expected": 320,
+      "gain": 45,
+      "reasoning": [
+        "Shackleton historisch schip",
+        "Ontdekt 2022, wereldwijde nieuwsmomenten",
+        "Display piece met educatieve hook",
+        "Niche maar trouwe fanbase"
+      ],
+      "action": "Koop bij korting; niet voor iedereen",
+      "retailers": [
+        "Bol.com",
+        "LEGO.com NL"
+      ]
+    },
+    {
+      "id": "lego-mclaren-f1",
+      "category": "LEGO",
+      "subcategory": "Available",
+      "name": "42171 Mercedes-AMG F1 W14",
+      "sublabel": "LEGO Technic F1",
+      "date": "2027-12-31",
+      "dateLabel": "retirement TBA",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#00D2BE",
+        "secondary": "#000000",
+        "accent": "#FFFFFF",
+        "label": "MERCEDES F1",
+        "type": "lego"
+      },
+      "retail": 195,
+      "expected": 270,
+      "gain": 38,
+      "reasoning": [
+        "F1 markt explosief in EU",
+        "Technic Mercedes officiële licentie",
+        "Hamilton/Russell era piece",
+        "Drive to Survive aanjager"
+      ],
+      "action": "Koop bij 15%+ korting",
+      "retailers": [
+        "Bol.com",
+        "Amazon DE"
+      ]
+    },
+    {
+      "id": "f1-verstappen-rc",
+      "category": "Sports",
+      "subcategory": "F1",
+      "name": "Max Verstappen Topps Chrome F1 RC",
+      "date": "2020-10-15",
+      "dateLabel": "2020 Chrome F1",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–36 maanden",
+      "theme": {
+        "primary": "#1E3A8A",
+        "secondary": "#FED102",
+        "accent": "#E10600",
+        "label": "VERSTAPPEN RC",
+        "type": "sport"
+      },
+      "retail": 180,
+      "expected": 290,
+      "gain": 61,
+      "reasoning": [
+        "4× wereldkampioen NL",
+        "Topps Chrome 2020 was eerste F1 Chrome ooit",
+        "PSA 10 €450+",
+        "NL collector base = sterke vraag in Nederland",
+        "Pension/post-carrière speculation"
+      ],
+      "action": "Koop NM bij verified seller; mogelijke PSA grading",
+      "retailers": [
+        "eBay UK",
+        "COMC.com"
+      ]
+    },
+    {
+      "id": "sneaker-tsj1-mocha",
+      "category": "Sneakers",
+      "subcategory": "Premium Grail",
+      "name": "Air Jordan 1 Travis Scott Mocha",
+      "date": "2019-05-11",
+      "dateLabel": "Travis Scott 2019",
+      "dateType": "available",
+      "priority": 4,
+      "risk": "Laag",
+      "horizon": "24+ maanden",
+      "theme": {
+        "primary": "#5C3A1A",
+        "secondary": "#8B6F47",
+        "accent": "#E63946",
+        "label": "TS JORDAN 1 MOCHA",
+        "type": "sport"
+      },
+      "retail": 1200,
+      "expected": 1700,
+      "gain": 42,
+      "reasoning": [
+        "Sneaker grail-status, gerefereerde modern classic",
+        "Travis Scott catalogusprijs blijft stijgen",
+        "Sealed/deadstock supply daalt",
+        "Crossover muziek + streetwear publiek"
+      ],
+      "action": "KOOP ALLEEN deadstock/sealed met authenticatie",
+      "retailers": [
+        "StockX (verified)",
+        "GOAT"
+      ]
+    },
+    {
+      "id": "sneaker-dunk-panda",
+      "category": "Sneakers",
+      "subcategory": "Overhyped",
+      "name": "Nike Dunk Low Panda",
+      "date": "2021-03-10",
+      "dateLabel": "reissue 2021+",
+      "dateType": "available",
+      "priority": 1,
+      "risk": "Hoog",
+      "horizon": "NIET aanbevolen",
+      "theme": {
+        "primary": "#1F1815",
+        "secondary": "#FFFFFF",
+        "accent": "#A89D8C",
+        "label": "DUNK PANDA ⚠",
+        "type": "sport"
+      },
+      "retail": 130,
+      "expected": 110,
+      "gain": -15,
+      "reasoning": [
+        "WAARSCHUWING: massa-geproduceerd model",
+        "Aanbod overstijgt vraag al 2 jaar",
+        "Resale prijs onder retail",
+        "Toegevoegd ter referentie — geen flip-kandidaat"
+      ],
+      "action": "NIET KOPEN voor investeren — alleen voor dragen",
+      "retailers": [
+        "Nike.com (retail)"
+      ]
+    },
+    {
+      "id": "sneaker-nb-990v6",
+      "category": "Sneakers",
+      "subcategory": "Modern Grail",
+      "name": "New Balance 990v6 Miusa",
+      "date": "2022-06-01",
+      "dateLabel": "Made in USA",
+      "dateType": "available",
+      "priority": 3,
+      "risk": "Medium",
+      "horizon": "12–24 maanden",
+      "theme": {
+        "primary": "#A89D8C",
+        "secondary": "#D4CCB8",
+        "accent": "#5C7088",
+        "label": "NB 990V6 MIUSA",
+        "type": "sport"
+      },
+      "retail": 230,
+      "expected": 320,
+      "gain": 39,
+      "reasoning": [
+        "New Balance dad-shoe trend ongebroken",
+        "Made in USA model premium positionering",
+        "Niche maar groeiend",
+        "Lower hype = stabieler prijs profiel"
+      ],
+      "action": "Koop deadstock specifieke colorways",
+      "retailers": [
+        "StockX",
+        "GOAT",
+        "New Balance store"
+      ]
+    },
+    {
+      "id": "funko-stan-lee-sdcc",
+      "category": "Other",
+      "subcategory": "Pop Grail",
+      "name": "Stan Lee SDCC Variants (pre-2018)",
+      "date": "2016-07-20",
+      "dateLabel": "SDCC 2016-2018",
+      "dateType": "available",
+      "priority": 2,
+      "risk": "Hoog",
+      "horizon": "Speculatief",
+      "theme": {
+        "primary": "#E63946",
+        "secondary": "#FBE122",
+        "accent": "#1A1A2E",
+        "label": "STAN LEE SDCC",
+        "type": "sport"
+      },
+      "retail": 280,
+      "expected": 380,
+      "gain": 36,
+      "reasoning": [
+        "Funko markt INGESTORT 2022-2024 (-60%)",
+        "Alleen pre-2018 grails behouden waarde",
+        "Stan Lee SDCC variants schaars + iconisch",
+        "Vereist authentication, veel namaak",
+        "Niche speculatie, niet hoofdcategorie"
+      ],
+      "action": "ALLEEN als verzamelaar — niet voor flip",
+      "retailers": [
+        "eBay verified",
+        "Mercari"
+      ]
+    }
+  ]
+}
