@@ -286,7 +286,7 @@ function AppInner() {
   if (!loaded) return null;
 
   return (
-    <div style={{ minHeight: '100vh', background: '#FBF8F1', color: '#1F1815', fontFamily: '"Inter", -apple-system, sans-serif' }}>
+    <div style={{ minHeight: '100dvh', background: '#FBF8F1', color: '#1F1815', fontFamily: '"Inter", -apple-system, sans-serif', paddingLeft: 'env(safe-area-inset-left, 0px)', paddingRight: 'env(safe-area-inset-right, 0px)' }}>
       <style>{`@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;600;700&display=swap');
         * { box-sizing: border-box; }
         .serif { font-family: 'Fraunces', Georgia, serif; }
@@ -297,14 +297,14 @@ function AppInner() {
         input::-webkit-outer-spin-button, input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
       `}</style>
 
-      <div style={{ paddingBottom: '70px' }}>
+      <div style={{ paddingBottom: 'calc(72px + env(safe-area-inset-bottom, 0px))' }}>
         {tab === 'marketplace' && <MarketplaceTab data={data} updateQty={updateQty} viewedVariant={viewedVariant} setViewedVariant={setViewedVariant} getImage={getImage} updateImage={updateImage} />}
         {tab === 'calendar' && <CalendarTab data={data} />}
         {tab === 'portfolio' && <PortfolioTab data={data} updateQty={updateQty} updateStatus={updateStatus} updateSalePrice={updateSalePrice} updatePurchasePrice={updatePurchasePrice} deleteItem={deleteItem} getImage={getImage} setTab={setTab} />}
         {tab === 'account' && <AccountTab data={data} setData={setData} />}
       </div>
 
-      <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, background: 'rgba(31, 24, 21, 0.97)', backdropFilter: 'blur(20px)', borderTop: '1px solid rgba(168,126,26,0.3)', padding: '8px 0', display: 'flex', zIndex: 100 }}>
+      <div style={{ position: 'fixed', bottom: 0, left: 0, right: 0, background: 'rgba(31, 24, 21, 0.97)', backdropFilter: 'blur(20px)', borderTop: '1px solid rgba(168,126,26,0.3)', paddingTop: '8px', paddingBottom: 'max(8px, env(safe-area-inset-bottom, 0px))', paddingLeft: 'env(safe-area-inset-left, 0px)', paddingRight: 'env(safe-area-inset-right, 0px)', display: 'flex', zIndex: 100 }}>
         <TabBtn icon={<Store size={20} />} label="Marketplace" active={tab === 'marketplace'} onClick={() => setTab('marketplace')} />
         <TabBtn icon={<CalendarIcon size={20} />} label="Kalender" active={tab === 'calendar'} onClick={() => setTab('calendar')} />
         <TabBtn icon={<Briefcase size={20} />} label="Portfolio" active={tab === 'portfolio'} onClick={() => setTab('portfolio')} />
@@ -316,7 +316,7 @@ function AppInner() {
 
 function TabBtn({ icon, label, active, onClick }) {
   return (
-    <button onClick={onClick} style={{ flex: 1, background: 'transparent', border: 'none', padding: '6px 0', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '3px', color: active ? '#A87E1A' : '#A89D8C', cursor: 'pointer' }}>
+    <button type="button" onClick={onClick} style={{ flex: 1, background: 'transparent', border: 'none', padding: '6px 0', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '3px', color: active ? '#A87E1A' : '#A89D8C', cursor: 'pointer' }}>
       {icon}
       <span style={{ fontSize: '10px', fontWeight: active ? 700 : 500, letterSpacing: '0.04em' }}>{label}</span>
     </button>
@@ -431,7 +431,7 @@ function MarketplaceTab({ data, updateQty, viewedVariant, setViewedVariant, getI
 
   return (
     <div>
-      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 20px', borderBottom: '1px solid #A87E1A' }}>
+      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 20px', paddingTop: 'max(28px, calc(12px + env(safe-area-inset-top, 0px)))', borderBottom: '1px solid #A87E1A' }}>
         <div style={{ fontSize: '11px', letterSpacing: '0.18em', color: '#A87E1A', marginBottom: '6px', fontWeight: 500 }}>MARKETPLACE</div>
         <h1 className="serif" style={{ fontSize: '30px', fontWeight: 400, margin: '0 0 18px', letterSpacing: '-0.02em' }}>Alle collectibles</h1>
         <div style={{ background: 'rgba(255,255,255,0.08)', border: '1px solid rgba(255,255,255,0.12)', borderRadius: '8px', padding: '10px 12px', display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -442,7 +442,7 @@ function MarketplaceTab({ data, updateQty, viewedVariant, setViewedVariant, getI
       </div>
 
       {/* Compact filter strip */}
-      <div style={{ padding: '10px 12px 8px', background: '#FBF8F1', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 0, zIndex: 10 }}>
+      <div style={{ padding: '10px 12px 8px', background: '#FBF8F1', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 'env(safe-area-inset-top, 0px)', zIndex: 10, paddingTop: 'max(10px, env(safe-area-inset-top, 0px))' }}>
         <div style={{ display: 'flex', gap: '5px', alignItems: 'center' }}>
           <div style={{ display: 'flex', gap: '4px', overflowX: 'auto', flex: 1, paddingRight: '4px', scrollbarWidth: 'none', WebkitOverflowScrolling: 'touch' }}>
             {categories.map(c => (
@@ -609,8 +609,8 @@ function ProductDetail({ item, onBack, data, updateQty, viewedVariant, setViewed
 
   return (
     <div style={{ paddingBottom: '20px' }}>
-      <div style={{ background: '#FBF8F1', padding: '14px 20px', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 0, zIndex: 20 }}>
-        <button onClick={onBack} style={{ background: 'transparent', border: 'none', color: '#1F1815', fontSize: '14px', fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', padding: 0 }}>← Terug</button>
+      <div style={{ background: '#FBF8F1', padding: '14px 20px', paddingTop: 'max(14px, env(safe-area-inset-top, 0px))', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 'env(safe-area-inset-top, 0px)', zIndex: 110 }}>
+        <button type="button" onClick={onBack} style={{ background: 'transparent', border: 'none', color: '#1F1815', fontSize: '14px', fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', padding: '8px 4px', minHeight: '44px', WebkitTapHighlightColor: 'transparent' }}>← Terug</button>
       </div>
       <div style={{ width: '100%', height: '240px', background: '#F4EFE4', display: 'flex', alignItems: 'center', justifyContent: 'center', position: 'relative', overflow: 'hidden' }}>
         {customImage ? (
@@ -766,7 +766,7 @@ function CalendarTab({ data }) {
 
   return (
     <div>
-      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 22px', borderBottom: '1px solid #A87E1A' }}>
+      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 22px', paddingTop: 'max(28px, calc(12px + env(safe-area-inset-top, 0px)))', borderBottom: '1px solid #A87E1A' }}>
         <div style={{ fontSize: '11px', letterSpacing: '0.18em', color: '#A87E1A', marginBottom: '6px', fontWeight: 500 }}>KALENDER</div>
         <h1 className="serif" style={{ fontSize: '30px', fontWeight: 400, margin: 0, letterSpacing: '-0.02em' }}>Release & retirement</h1>
       </div>
@@ -913,7 +913,7 @@ function PortfolioTab({ data, updateQty, updateStatus, updateSalePrice, updatePu
 
   return (
     <div>
-      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 24px 28px', borderBottom: '1px solid rgba(168,126,26,0.4)' }}>
+      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 24px 28px', paddingTop: 'max(28px, calc(12px + env(safe-area-inset-top, 0px)))', borderBottom: '1px solid rgba(168,126,26,0.4)' }}>
         <div style={{ fontSize: '11px', letterSpacing: '0.18em', color: '#A87E1A', marginBottom: '6px', fontWeight: 500 }}>PORTFOLIO</div>
         <h1 className="serif" style={{ fontSize: '22px', fontWeight: 400, margin: '0 0 32px', letterSpacing: '-0.02em', color: '#E8DFCB' }}>Mijn portfolio</h1>
 
@@ -990,7 +990,7 @@ function PortfolioTab({ data, updateQty, updateStatus, updateSalePrice, updatePu
 
       {/* Sub-tabs */}
       {allItems.length > 0 && (
-        <div style={{ display: 'flex', background: '#FBF8F1', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 0, zIndex: 10 }}>
+        <div style={{ display: 'flex', background: '#FBF8F1', borderBottom: '1px solid #E8E2D5', position: 'sticky', top: 'env(safe-area-inset-top, 0px)', zIndex: 10, paddingTop: 'max(0px, env(safe-area-inset-top, 0px))' }}>
           <button onClick={() => setSubTab('actief')} style={{ flex: 1, padding: '14px 12px', background: 'transparent', border: 'none', borderBottom: `2px solid ${subTab === 'actief' ? '#1F1815' : 'transparent'}`, fontSize: '11px', letterSpacing: '0.12em', fontWeight: 700, color: subTab === 'actief' ? '#1F1815' : '#8B8378', cursor: 'pointer' }}>
             ACTIEF <span style={{ marginLeft: '4px', fontSize: '10px', color: subTab === 'actief' ? '#6B8A4F' : '#A89D8C' }}>({actieveItems.length})</span>
           </button>
@@ -1279,8 +1279,8 @@ function AccountTab({ data, setData }) {
   if (showTips) {
     return (
       <div>
-        <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 20px', borderBottom: '1px solid #A87E1A' }}>
-          <button onClick={() => setShowTips(false)} style={{ background: 'transparent', border: 'none', color: '#FBF8F1', fontSize: '13px', fontWeight: 600, cursor: 'pointer', padding: 0, marginBottom: '12px' }}>← Terug</button>
+        <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 20px', paddingTop: 'max(28px, calc(12px + env(safe-area-inset-top, 0px)))', borderBottom: '1px solid #A87E1A' }}>
+          <button type="button" onClick={() => setShowTips(false)} style={{ background: 'transparent', border: 'none', color: '#FBF8F1', fontSize: '13px', fontWeight: 600, cursor: 'pointer', padding: '8px 4px', marginBottom: '8px', minHeight: '44px', display: 'flex', alignItems: 'center', WebkitTapHighlightColor: 'transparent' }}>← Terug</button>
           <div style={{ fontSize: '11px', letterSpacing: '0.18em', color: '#A87E1A', marginBottom: '6px', fontWeight: 500 }}>STRATEGIE & TIPS</div>
           <h1 className="serif" style={{ fontSize: '26px', fontWeight: 400, margin: 0, letterSpacing: '-0.02em' }}>Adviezen</h1>
         </div>
@@ -1309,7 +1309,7 @@ function AccountTab({ data, setData }) {
 
   return (
     <div>
-      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 22px', borderBottom: '1px solid #A87E1A' }}>
+      <div style={{ background: 'linear-gradient(180deg, #2A201A 0%, #1F1815 100%)', color: '#FBF8F1', padding: '28px 20px 22px', paddingTop: 'max(28px, calc(12px + env(safe-area-inset-top, 0px)))', borderBottom: '1px solid #A87E1A' }}>
         <div style={{ fontSize: '11px', letterSpacing: '0.18em', color: '#A87E1A', marginBottom: '6px', fontWeight: 500 }}>ACCOUNT</div>
         <h1 className="serif" style={{ fontSize: '30px', fontWeight: 400, margin: 0, letterSpacing: '-0.02em' }}>Instellingen</h1>
       </div>
